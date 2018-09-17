@@ -53,7 +53,7 @@ The world of software development has examples of software that in the face of e
 
 [2] Availability, Latency and Cost: Withstanding Regional Outages - [Aaron Blohowiak (@aaronblohowiak)](https://re-deploy.io/2018/speakers/#aaron-blohowiak) 
 
-[3] Resilient Systems Require Resilient People —  [Hannah Foxwell (@hannahfoxwell)](https://re-deploy.io/2018/speakers/#hannah-foxwell)
+[3] Resilient Systems Require Resilient People —  [Hannah Foxwell (@hannahfoxwell)](https://re-deploy.io/2018/speakers/#hannah-foxwell) (From Pivotal)
 
 [4] When Will They Ever Learn? - [David Blank-Edelman (@otterbook)](https://re-deploy.io/2018/speakers/#david-blank-edelman) 
 
@@ -61,9 +61,7 @@ The world of software development has examples of software that in the face of e
  
 [6] Chaos Engineering: A Step Towards Resilience — [Nora Jones (@nora_js)](https://re-deploy.io/2018/speakers/#nora-jones) 
  
-[7] The Human Nature of Failure and Resiliency — [VM (Vicky) Brasseur (@vmbrasseur) ]( https://re-deploy.io/2018/speakers/#vm-(vicky)-brasseur)
-    [Slides](https://ia601504.us.archive.org/35/items/redeploy2018-failure/03-redeploy2018-failure-with_speaker_notes.pdf)
-Experience comes for free, learning does not.
+[7] The Human Nature of Failure and Resiliency — [VM (Vicky) Brasseur (@vmbrasseur) ](https://re-deploy.io/2018/speakers/#vm-(vicky)-brasseur). [Slides](https://ia601504.us.archive.org/35/items/redeploy2018-failure/03-redeploy2018-failure-with_speaker_notes.pdf)
 
 [8] The Origins of Opera and the Future of Programming - [Jessica Kerr (@jessitron)](https://re-deploy.io/2018/speakers/#jessica-kerr) 
 
@@ -98,6 +96,6 @@ Experience comes for free, learning does not.
 
 [20] [Working at the Center of the Cyclone - Dr. Richard Cook - YouTube](https://www.youtube.com/watch?v=3ZP98stDUf0)
 
-[21] [Velocity NY 2013:   Richard Cook, “Resilience In Complex Adaptive Systems” - YouTube](https://www.youtube.com/watch?v=PGLYEDpNu60)
+[21] [Velocity NY 2013: Richard Cook, “Resilience In Complex Adaptive Systems” - YouTube](https://www.youtube.com/watch?v=PGLYEDpNu60)
 
 [22] [REdeploy 2018 - The Human Nature of Failure and Resiliency : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/redeploy2018-failure)
