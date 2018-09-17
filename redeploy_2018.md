@@ -88,7 +88,7 @@ The world of software development has examples of software that in the face of e
 
 [17] [STELLA: Report from the SNAFUcatchers Workshop on Coping With Complexity](https://snafucatchers.github.io)
 
-[18] Human Factors & Ergonomics in Practice
+[18] [Human Factors & Ergonomics in Practice](https://www.amazon.com/Human-Factors-Ergonomics-Practice-Performance/dp/1472439252)
 
 [19] [The Human Nature of Failure and Resiliency - reading list](https://www.zotero.org/groups/287407/failure/items?)
 
@@ -96,6 +96,6 @@ The world of software development has examples of software that in the face of e
 
 [20] [Working at the Center of the Cyclone - Dr. Richard Cook - YouTube](https://www.youtube.com/watch?v=3ZP98stDUf0)
 
-[21] [Velocity NY 2013: Richard Cook, “Resilience In Complex Adaptive Systems” - YouTube](https://www.youtube.com/watch?v=PGLYEDpNu60)
+[21]() [Velocity NY 2013: Richard Cook, “Resilience In Complex Adaptive Systems” - YouTube](https://www.youtube.com/watch?v=PGLYEDpNu60)
 
-[22] [REdeploy 2018 - The Human Nature of Failure and Resiliency : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/redeploy2018-failure)
+[22]() [REdeploy 2018 - The Human Nature of Failure and Resiliency : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/redeploy2018-failure)
